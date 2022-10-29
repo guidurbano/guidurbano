@@ -8,4 +8,5 @@ I still study a lot on Machine Learning, Python development frameworks, JS, HTML
 
 # 🖖social
 [LinkedIn](https://www.linkedin.com/in/guilherme-urbano-582a1112b/)
+
 [HackerRank](https://www.hackerrank.com/guilhermedurbano/)
