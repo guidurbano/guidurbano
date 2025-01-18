@@ -1,4 +1,4 @@
-😃 Hi there, I'm Guiherme, a young Data Scientist who is passionate about making data more meaningful, accessible, and insightful. My focus is on machine learning, and I'm constantly learning new things every day to help me achieve my mission.
+😃 Hi there, I'm Guiherme, a Data Scientist who is passionate about making data more meaningful, accessible, and insightful. My focus is on machine learning, and I'm constantly learning new things every day to help me achieve my mission.
 
 # 🚀 mission
 My mission is to help businesses leverage the power of data to make better decisions. To achieve this, I strive to learn as much as possible every day and contribute to the projects I work on and the tech community as a whole. My engineering background has given me a solid foundation in both data and business, which allows me to create effective solutions that meet real-world needs.
